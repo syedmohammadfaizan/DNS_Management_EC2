@@ -29,5 +29,7 @@ This is a simple **static portfolio website** hosted on **AWS EC2** and connecte
    ```bash
    sudo yum install httpd -y   # For Amazon Linux
    sudo systemctl start httpd
-   sudo systemctl enable httpd ```
-   Linkedin Link: 
+   sudo systemctl enable httpd
+
+    ```
+   Linkedin Link: https://www.linkedin.com/posts/md-faizan-bb9998234_aws-ec2-route53-activity-7385080612988162048-jCdm?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqFwb0B3mY-3tfXzS8MUobP_65azcolSNo
