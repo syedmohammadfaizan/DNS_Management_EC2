@@ -29,4 +29,5 @@ This is a simple **static portfolio website** hosted on **AWS EC2** and connecte
    ```bash
    sudo yum install httpd -y   # For Amazon Linux
    sudo systemctl start httpd
-   sudo systemctl enable httpd
+   sudo systemctl enable httpd ```
+   Linkedin Link: 
